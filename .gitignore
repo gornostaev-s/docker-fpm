@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+.env
+# composer.lock
+docker/mysql
+docker/logs
+docker/.env
